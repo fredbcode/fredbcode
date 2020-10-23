@@ -5,7 +5,8 @@ I'm not scared of DevOps and you shouldn't be either
 🔭 I’m currently working on : https://github.com/fredbcode and https://gitlab.com/fredbcode
 
 #### &#x1f4c8; E2Guardian stable branch pipeline:
-<img src="https://gitlab.com/fredbcode/e2guardian/badges/v5.4/pipeline.svg" aria-hidden="true" class="project-badge">
+ <a href="https://gitlab.com/fredbcode/e2guardian/-/commits/v5.4"><img src="https://gitlab.com/fredbcode/e2guardian/badges/v5.4/pipeline.svg" aria-hidden="true" class="project-badge"/>
+
 
 #### &#x1f4c8; GitHub Stats
 <a href="https://github.com/fredbcode/fredbcode">
