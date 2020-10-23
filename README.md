@@ -1,12 +1,12 @@
 Hi there
 
-**I'm Not Scared of DevOps and you Shouldn't be Either**
+I'm Not Scared of DevOps and you Shouldn't be Either
 
 🔭 I’m currently working on : https://github.com/fredbcode and https://gitlab.com/fredbcode
 
 
 
-**GitHub Stats**
+**GitHub Stats: **
 
 <a href="https://github.com/fredbcode/fredbcode">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fredbcode&hide=java,ruby,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
