@@ -1,6 +1,6 @@
 Hi there
 
-I'm Not Scared of DevOps and you Shouldn't be Either
+I'm not scared of DevOps and you shouldn't be either
 
 🔭 I’m currently working on : https://github.com/fredbcode and https://gitlab.com/fredbcode
 
