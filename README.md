@@ -1,4 +1,4 @@
-### Hi there
+Hi there
 
 **I'm Not Scared of DevOps and you Shouldn't be Either**
 
