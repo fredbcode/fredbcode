@@ -1,6 +1,4 @@
-Hi there
-
-I'm not scared of DevOps and you shouldn't be either
+Almost Human
 
 🔭 I’m currently working on : https://github.com/fredbcode and https://gitlab.com/fredbcode
 
