@@ -4,9 +4,9 @@
 
 **The maintained profile portal is on GitLab.**
 
-[![Open the GitLab profile portal](https://img.shields.io/badge/Open%20the%20GitLab%20profile%20portal-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/fredbcode#fred---devops-linux-networking-and-container-images)
+[![Open the GitLab profile portal](https://img.shields.io/badge/Open%20the%20GitLab%20profile%20portal-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/fredbcode#portal)
 
-[![GitLab](https://img.shields.io/badge/GitLab-fredbcode-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/fredbcode#fred---devops-linux-networking-and-container-images)
+[![GitLab](https://img.shields.io/badge/GitLab-fredbcode-FC6D26?logo=gitlab&logoColor=white)](https://gitlab.com/fredbcode#portal)
 [![Docker Hub](https://img.shields.io/badge/Docker%20Hub-fredbcode-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/u/fredbcode)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fredericbourgeois/)
 
@@ -16,7 +16,7 @@
 
 My current public work, container images, GitLab CI projects, and linked GitHub activity are collected in one place:
 
-**[gitlab.com/fredbcode](https://gitlab.com/fredbcode#fred---devops-linux-networking-and-container-images)**
+**[gitlab.com/fredbcode](https://gitlab.com/fredbcode#portal)**
 
 The source README for that profile portal is visible here:
 [gitlab.com/fredbcode/fredbcode/-/blob/main/README.md](https://gitlab.com/fredbcode/fredbcode/-/blob/main/README.md)
