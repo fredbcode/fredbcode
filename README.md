@@ -18,9 +18,6 @@ My current public work, container images, GitLab CI projects, and linked GitHub 
 
 **[gitlab.com/fredbcode](https://gitlab.com/fredbcode#portal)**
 
-The source README for that profile portal is visible here:
-[gitlab.com/fredbcode/fredbcode/-/blob/main/README.md](https://gitlab.com/fredbcode/fredbcode/-/blob/main/README.md)
-
 ## About This Page
 
 GitHub is still useful for issues, forks and public repositories, but GitLab is the canonical profile page. Keeping this README static avoids duplicated content and keeps the freshest activity on the GitLab profile.
