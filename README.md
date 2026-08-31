@@ -1,7 +1,5 @@
 <div align="center">
 
-# Almost Human
-
 **The maintained profile portal is on GitLab.**
 
 [![Open the GitLab profile portal](https://img.shields.io/badge/Open%20the%20GitLab%20profile%20portal-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/fredbcode#portal)
